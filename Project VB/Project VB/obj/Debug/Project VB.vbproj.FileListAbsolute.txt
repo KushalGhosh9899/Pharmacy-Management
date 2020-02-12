@@ -1,0 +1,20 @@
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\bin\Debug\Project VB.exe.config
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\bin\Debug\Project VB.exe
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\bin\Debug\Project VB.pdb
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\bin\Debug\Project VB.xml
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project VB.vbprojAssemblyReference.cache
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.Resources.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project VB.vbproj.GenerateResource.cache
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project VB.exe
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project VB.xml
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project VB.pdb
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.signup.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.Login.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.onetimeuser.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.Startup.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.UserUtility.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.Payment.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.deliverydetails.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.EndPage.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.HelpandSupport.resources
+C:\Users\Kushal Ghosh\source\repos\Project VB\Project VB\obj\Debug\Project_VB.Shopping.resources
