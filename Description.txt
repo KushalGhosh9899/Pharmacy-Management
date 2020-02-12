@@ -1,0 +1,37 @@
+	
+	Introduction :-
+
+The “Pharmacy At Doorstep” the online platform for all medicines needs  by signing up to the store. Its a  save time stage and you can refill the online link for shopping anytime  .
+Pharmacy , the online store of medicines developed by Kushal Ghosh.
+In this pharmacy project the user can buy online medicines of every company.  The user have to sign up and log in to place your order  and he /she have to select the no. of  medicines they want to purchase. Moreover the pharmacy store gives customer a One Time User option by which the customer can easily log in instead of not everytime signing in. 
+As per the online pharmacy store the customer have to enter his/her ‘s residential address for the doorstep delivery and the total amount of purchase the customer can pay through the credit card only.
+The pharmacy have a  help and support option on every page that if there is any problem that customer can contact to the pharmacy store through the required information given there .
+The pharmacy specialities are:
+•	Safety and authenticity.
+•	Buying medicines online is cheaper.
+•	Simplified ordering & delivery 
+•	Facility to approach medicines at the doorstep.
+
+	Modules :-
+
+Startup Form –
+This is the starting form which is linked to Help and support Form and there is continue Button which brings us to the next page.
+Userutility Form –
+This is the form which is connected to signup form, login form, one time user form for further operation we have to choose one of the three options to continue shopping.
+First time/New user has to choose signup or one time user option for further operation.
+Signup Form –
+This is the form which is connected to the database itself and in this form user has to enter their details which is saved on the database and that data is further used by the user to logged in the next form.
+Login Form –
+This is the form which is connected to the database itself and in this form user has to enter their details which is validated by the database data and if the data is present then only the user will be given authorisation to continue further.
+Shopping Form –
+This is the form where actual shopping is taking place, there is some medicines present in the stock and the user has to choose quantity according to their needs and had to pay that total amount.
+Payment Form –
+In this form user has to enter their card details and the card number has to be 16 digit and CVV number also has to be 3 Digits otherwise further operation will not be allowed and this data is going to saved on the database afterwards delivery page will be opened.
+Delivery Form –
+In this form user has to enter their details for delivery such as House number, Locality, City and state for the delivery of the medicines. This data is going to be saved on the database for further use by the admin.
+Endpage Form –
+In this form there is two options is provided that is help & support and continue shopping, first option will open help and support tab and other option will redirect to the shopping page for further shopping.
+Help and Support Form –
+This is the Form which is linked to each and every page this page has an information of admin and contact details of support team.
+One Time User Form –
+This is the form which is connected to the database itself and in this form user has to enter their details which is saved on the database and it is for the one time user only with this details user cannot be login through login page it is only for the one time users.
